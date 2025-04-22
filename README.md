@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Gael
 
 🎓 Estudiante de Tecnologías de la Información  
 🔧 Apasionado por el desarrollo de software, electrónica y visión por computadora  
@@ -25,4 +25,4 @@
 ## 📫 ¿Quieres contactarme?
 - Email: gaelburrola249@gmail.com
 - LinkedIn: www.linkedin.com/in/gael-valencia-5708a9351
-- 
+  
