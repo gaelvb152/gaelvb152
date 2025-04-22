@@ -1,4 +1,4 @@
-# ¡Hola! 👋
+# ¡Hola! 👋 Soy Gael
 
 🎓 Estudiante de Tecnologías de la Información  
 🔧 Apasionado por el desarrollo de software, electrónica y visión por computadora  
