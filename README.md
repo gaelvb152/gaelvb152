@@ -1,16 +1,28 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy [Tu Nombre]
 
-<!--
-**gaelvb152/gaelvb152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Tecnologías de la Información  
+🔧 Apasionado por el desarrollo de software, electrónica y visión por computadora  
+📍 Desde Nogales, Sonora
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías que uso
+- 💻 Lenguajes: C#, Python, PHP, JavaScript
+- ⚙️ Herramientas: Git, Firebase, Arduino
+- 📷 Visión artificial: YOLOv8, OpenCV, Tesseract, MediaPipe
+- 🌐 Web: HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos destacados
+
+### 🔍 Sistema de detección de placas en tiempo real
+- YOLOv8 + OpenCV + Tesseract OCR
+- Detección de velocidad desde Arduino
+- GUI para visualizar datos y conexión con Firebase
+
+
+### 🗓 Gestión de días de descanso UTN
+- PHP + MySQL
+- Incluye vacaciones, incapacidades y prestaciones
+
+## 📫 ¿Quieres contactarme?
+- Email: gaelburrola249@gmail.com
+- LinkedIn: www.linkedin.com/in/gael-valencia-5708a9351
+- 
