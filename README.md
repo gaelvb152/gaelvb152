@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Gael</h1>
+<h1 align="center">¡Hola!, Soy Gael 👋</h1>
 
 <p align="center">
   <img src="assets/banner.png" alt="Banner de Gael" width="100%">
