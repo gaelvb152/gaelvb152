@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Gael</h1>
 
 <p align="center">
-  <img src="banner.png" alt="Banner de Gael" width="100%">
+  <img src="assets/banner.png" alt="Banner de Gael" width="100%">
 </p>
 
 🎓 Estudiante de Tecnologías de la Información  
