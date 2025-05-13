@@ -6,7 +6,8 @@
 
 <p align="center">
   🎓 Estudiante de Tecnologías de la Información <br>
-  🔧 Desarrollador con enfoque en software, electrónica y visión por computadora, comprometido con la creación de soluciones inteligentes. <br>
+  🔧 Desarrollador con enfoque en software, electrónica y visión por computadora,
+           comprometido con la creación de soluciones inteligentes. <br>
   📍 Desde Nogales, Sonora
 </p>
 
