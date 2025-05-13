@@ -14,8 +14,8 @@
 
 ## 🚀 Tecnologías que uso
 
+### 🧠 Lenguajes de programación
 <p align="center">
-  <strong>Lenguajes</strong><br><br>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -23,8 +23,8 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
+### 🧰 Frameworks y herramientas
 <p align="center">
-  <strong>Frameworks y herramientas</strong><br><br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -32,8 +32,9 @@
   <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=mediapipe&logoColor=white"/>
 </p>
 
+### 🔌 Hardware
 <p align="center">
-  <strong>Hardware:</strong> ESP32, Arduino, sensores ultrasónicos, servos, comunicación serial.
+  <strong>ESP32 · Arduino · Sensores ultrasónicos · Servos · Comunicación serial</strong>
 </p>
 
 ---
