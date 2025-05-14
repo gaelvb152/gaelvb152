@@ -93,7 +93,7 @@
   
 ---
 
-- > ⚠️ *Este portafolio está en construcción. Pronto iré subiendo más proyectos y contenido.*
+- > ⚠️ *Este portafolio está en construcción. Pronto iré subiendo proyectos y mas contenido.*
 
 ---
 
