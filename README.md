@@ -1,21 +1,20 @@
-<h1 align="center">¡Hola!, Soy Gael 👋</h1>
+<h1 align="center">¡Hola!, soy Gael 👋</h1>
 
 <p align="center">
   <img src="assets/banner.png" alt="Banner de Gael" width="100%">
 </p>
 
 <p align="center">
-  🎓 Estudiante de Tecnologías de la Información <br>
-  🔧 Desarrollador con enfoque en software, electrónica y visión por computadora,
-           comprometido con la creación de soluciones inteligentes. <br>
-  📍 Desde Nogales, Sonora
+  🎓 Estudiante de Tecnologías de la Información en Multiplataforma <br>
+  💻 Desarrollador con enfoque en **software, electrónica y visión por computadora** <br>
+  🌎 Desde Nogales, Sonora | 📅 Disponible para prácticas profesionales
 </p>
 
 ---
 
-## 🚀 Tecnologías que uso
+## 🚀 Tecnologías principales
 
-### 🧠 Lenguajes de programación
+### 💻 Lenguajes de programación
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -24,7 +23,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
-### 🧰 Frameworks y herramientas
+### ⚙️ Frameworks y herramientas
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -33,42 +32,57 @@
   <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=mediapipe&logoColor=white"/>
 </p>
 
-### 🔌 Hardware
+### 🔌 Hardware y electrónica
 <p align="center">
   <strong>ESP32 · Arduino · Sensores ultrasónicos · Servos · Comunicación serial</strong>
 </p>
 
 ---
 
-## 🛠️ Experiencia con hardware
+## 🛠️ Experiencia destacada
 
-- ⚡ Programación de microcontroladores (ESP32, Arduino)  
-- 📶 Comunicación serial, sensores, control de servos  
-- 👁️ Integración con visión artificial en tiempo real  
+- 🔧 Desarrollo de soluciones con integración hardware-software
+- 🔍 Implementación de modelos de visión por computadora en tiempo real
+- 🧠 Automatización con inteligencia artificial y control por sensores
+- 🗃️ Gestión de datos con bases MySQL y Firestore
 
 ---
 
 ## 📌 Proyectos destacados
 
-### 🔍 Sistema de detección de placas en tiempo real
-- 🚘 YOLOv8 + OpenCV + Tesseract OCR  
-- 📡 Velocidad capturada desde Arduino  
-- 🖥 GUI con conexión a Firebase  
-- 📷 Cámara: Microsoft LifeCam Studio  
+### 🚘 Sistema de detección de placas en tiempo real
+> YOLOv8 · OpenCV · Tesseract OCR · Firebase · Arduino
 
-### 🗓 Gestión de días de descanso UTN
-- 🧾 PHP + MySQL  
-- 👤 Manejo de vacaciones, incapacidades, días sindicales  
-- 🛡 Validación por cláusulas sindicales  
+- Detección automática de placas con reconocimiento de texto
+- Obtención de velocidad desde sensores ultrasónicos vía Arduino
+- GUI con visualización en tiempo real y generación de reportes
 
-### 📲 Aplicaciones móviles con Flutter
-- 📱 UI moderna y responsiva  
-- 🔄 Consumo de APIs REST, Firebase  
-- 📦 Apps multiplataforma (Android / iOS)  
+### 🗓 Sistema de gestión de días UTN
+> PHP · MySQL · Bootstrap
+
+- Control de vacaciones, días sindicales y permisos especiales
+- Validación según cláusulas del contrato colectivo de la UTN
+- Roles de usuario y autenticación personalizada
+
+### 📱 Apps móviles multiplataforma
+> Flutter · Dart · Firebase · REST API
+
+- Interfaces modernas, responsivas y conectadas a la nube
+- Funcionalidad online/offline y notificaciones push
+- Desarrollo para Android e iOS desde un solo código
 
 ---
 
-## 📫 ¿Quieres contactarme?
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaelburrola&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaelburrola&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## 📫 Contáctame
 
 <p align="center">
   <a href="mailto:gaelburrola249@gmail.com">
@@ -78,3 +92,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-Gael%20Valencia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+---
+
+## ✨ Sobre mí
+
+- 🧠 Me apasiona aplicar la tecnología para resolver problemas reales  
+- 📈 Siempre estoy aprendiendo nuevas herramientas y frameworks  
+- 🤝 Busco oportunidades para colaborar en proyectos innovadores  
