@@ -73,13 +73,6 @@
 
 ---
 
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaelvb152&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaelvb152&layout=compact&theme=radical" height="150"/>
-</p>
-
 ---
 
 ## 📫 Contáctame
@@ -99,4 +92,6 @@
 
 - 🧠 Me apasiona aplicar la tecnología para resolver problemas reales  
 - 📈 Siempre estoy aprendiendo nuevas herramientas y frameworks  
-- 🤝 Busco oportunidades para colaborar en proyectos innovadores  
+- 🤝 Busco oportunidades para colaborar en proyectos innovadores
+- > ⚠️ *Este portafolio está en construcción. Pronto iré subiendo más proyectos y contenido.*
+
