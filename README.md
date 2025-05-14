@@ -71,9 +71,6 @@
 - Funcionalidad online/offline y notificaciones push
 - Desarrollo para Android e iOS desde un solo código
 
----
-
----
 
 ## 📫 Contáctame
 
@@ -93,5 +90,10 @@
 - 🧠 Me apasiona aplicar la tecnología para resolver problemas reales  
 - 📈 Siempre estoy aprendiendo nuevas herramientas y frameworks  
 - 🤝 Busco oportunidades para colaborar en proyectos innovadores
+  
+---
+
 - > ⚠️ *Este portafolio está en construcción. Pronto iré subiendo más proyectos y contenido.*
+
+---
 
