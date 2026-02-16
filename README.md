@@ -78,8 +78,8 @@
   <a href="mailto:gaelburrola249@gmail.com">
     <img src="https://img.shields.io/badge/Email-gaelburrola249@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/gael-valencia-5708a9351">
-    <img src="https://img.shields.io/badge/LinkedIn-Gael%20Valencia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="">
+    <img src=""/>
   </a>
 </p>
 
