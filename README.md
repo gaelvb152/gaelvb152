@@ -1,88 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=260&section=header&text=Gael%20Burrola&fontSize=72&fontColor=e94560&fontAlignY=35&desc=Software%20Engineer%20%7C%20IoT%20%7C%20Cloud%20%7C%20Logistics&descColor=a8b2d8&descAlignY=55&descAlign=50&animation=fadeIn" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=e94560&center=true&vCenter=true&width=750&lines=Desarrollador+Full-Stack+%F0%9F%9A%80;Especialista+en+Log%C3%ADstica+%26+Automatizaci%C3%B3n+%F0%9F%9A%9B%EF%B8%8F;Integraci%C3%B3n+de+Hardware+%26+Visi%C3%B3n+por+Computadora+%F0%9F%A4%96;Oracle+Cloud+%7C+Firebase+%7C+IoT+%26+AI+%F0%9F%A7%A0" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:16213e,100:0f3460&height=270&section=header&text=Gael%20Burrola&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Ingeniero%20de%20Software%20%7C%20IoT%20%7C%20Cloud%20%7C%20Automatización%20Logística&descColor=8892b0&descAlignY=58&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="mailto:gaelburrola249@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/gaelvb152"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://github.com/gaelvb152"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=gaelvb152&style=for-the-badge&color=e94560&label=VISITAS+AL+PERFIL" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=64ffda&center=true&vCenter=true&width=800&height=55&lines=Desarrollador+Full-Stack+%26+Ingeniero+IoT;Automatización+Logística+%7C+Sistemas+en+Tiempo+Real;Visión+por+Computadora+%7C+Integración+de+Hardware;Oracle+Cloud+%7C+Firebase+%7C+Edge+Computing" alt="Typing SVG"/>
 </div>
 
 <br>
 
----
-
-<div align="center">
-  <h2>⚡ Acerca de Mí</h2>
-</div>
-
-<table align="center">
-  <tr>
-    <td>🏠</td>
-    <td><strong>Nogales, Sonora, México</strong></td>
-    <td>🎓</td>
-    <td><strong>Ing. en Desarrollo y Gestión de Software — UTN</strong></td>
-  </tr>
-  <tr>
-    <td>💼</td>
-    <td><strong>Intern @ Transmex (2025)</strong></td>
-    <td>🌐</td>
-    <td><strong>Oracle Cloud · Firebase · IoT</strong></td>
-  </tr>
-  <tr>
-    <td>🧠</td>
-    <td colspan="3"><strong>Apasionado por construir arquitecturas eficientes donde el hardware, el software y la nube convergen para resolver problemas logísticos reales.</strong></td>
-  </tr>
-</table>
-
-<br>
-
----
-
-## 🛠️ Stack Tecnológico
-
 <div align="center">
 
-### ☁️ Backend & Cloud
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-
-### 💻 Frontend & Apps
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Hardware, IoT & Visión por Computadora
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E6526F?style=for-the-badge&logo=espressif&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FF1493?style=for-the-badge&logo=yolo&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
-### 🗄️ Bases de Datos & DevOps
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Gmail](https://img.shields.io/badge/gaelburrola249%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gaelburrola249@gmail.com)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gaelvb152-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaelvb152)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-gaelvb152-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gaelvb152)&nbsp;&nbsp;
+[![Visitas](https://komarev.com/ghpvc/?username=gaelvb152&style=flat-square&color=brightgreen&label=visitas+al+perfil)](https://github.com/gaelvb152)
 
 </div>
 
@@ -90,161 +23,252 @@
 
 ---
 
-## 💼 Experiencia Profesional
+## `$ whoami`
 
-<table width="100%">
-  <tr>
-    <td width="20%" align="center">
-      <br>
-      <img src="https://img.shields.io/badge/2025-Presente-e94560?style=for-the-badge" /><br><br>
-      <b>🚛 Transmex</b>
-    </td>
-    <td width="80%">
-      <br>
-      <b>Intern — Desarrollo Multiplataforma</b><br><br>
-      <ul>
-        <li>Desarrollo e implementación de herramientas de software enfocadas en la <b>optimización de procesos operativos</b> de logística de largo recorrido.</li>
-        <li>Gestión e integración de bases de datos para automatizar el <b>flujo de información entre sistemas</b> de rastreo vehicular, geofences y reportes de operación.</li>
-        <li>Diseño de dashboards internos con integración a <b>APIs externas (Zonar)</b> y notificaciones automatizadas vía <b>Power Automate</b>.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+```python
+class GaelBurrola:
+    ubicacion   = "Nogales, Sonora, México 🌵"
+    universidad = "Ingeniería en Desarrollo y Gestión de Software — UTN"
+    empresa     = "Intern @ Transmex · Sistemas de Logística y Flotillas"
 
-<br>
+    stack = {
+        "lenguajes" : ["Python", "C#", "PHP", "JavaScript", "Dart"],
+        "frontend"  : ["HTML5", "CSS3", "Flutter", "Leaflet.js"],
+        "cloud"     : ["Oracle Cloud", "Firebase", "Power Automate"],
+        "hardware"  : ["Arduino", "ESP32", "OpenCV", "YOLOv8", "Tesseract"],
+        "bases_datos": ["MySQL", "SQLite", "Firebase Realtime DB"],
+        "herramientas": ["Docker", "Postman", "Tampermonkey"],
+    }
 
----
+    intereses = ["Sistemas en Tiempo Real", "IoT", "Visión por Computadora", "Tech Logística"]
 
-## 🚀 Proyectos de Alto Impacto
+    def __str__(self):
+        return "Construyendo sistemas donde el hardware, la nube y la logística convergen."
 
-<blockquote>
-  <details open>
-    <summary><b>🚚 Plataforma de Visibilidad Logística y Rastreo — Zonar API</b></summary>
-    <br>
-    <p><i>Sistema integral de monitoreo vehicular para logística de largo recorrido en tiempo real.</i></p>
-    <table>
-      <tr>
-        <td><b>🧰 Stack</b></td>
-        <td>Firebase · Zonar API · GPS · Web Dashboard · Power Automate</td>
-      </tr>
-      <tr>
-        <td><b>📈 Impacto</b></td>
-        <td>Rastreo en tiempo real a través de geocercas, sincronizando grandes volúmenes de datos GPS en Firebase para análisis operativo preciso y alertas automáticas.</td>
-      </tr>
-    </table>
-  </details>
-</blockquote>
-
-<blockquote>
-  <details>
-    <summary><b>👁️ Reconocimiento de Placas e IoT en Tiempo Real</b></summary>
-    <br>
-    <p><i>Integración avanzada de visión por computadora, OCR y hardware embebido.</i></p>
-    <table>
-      <tr>
-        <td><b>🧰 Stack</b></td>
-        <td>YOLOv8 · OpenCV · Tesseract OCR · Firebase · Arduino · ESP32 · Sensores Ultrasónicos</td>
-      </tr>
-      <tr>
-        <td><b>📈 Impacto</b></td>
-        <td>Captura y reconocimiento automático de placas vehiculares con medición de velocidad sincronizada en hardware, generando reportes automáticos en la nube.</td>
-      </tr>
-    </table>
-  </details>
-</blockquote>
-
-<blockquote>
-  <details>
-    <summary><b>💰 Análisis Financiero "VIAJES DEALER"</b></summary>
-    <br>
-    <p><i>Herramienta de inteligencia de negocio para el sector transporte.</i></p>
-    <table>
-      <tr>
-        <td><b>🧰 Stack</b></td>
-        <td>Python · Pandas · Streamlit · Excel</td>
-      </tr>
-      <tr>
-        <td><b>📈 Impacto</b></td>
-        <td>Evaluación detallada del balance entre costos de operación versus ingresos reales, mejorando la toma de decisiones estratégicas en tiempo real.</td>
-      </tr>
-    </table>
-  </details>
-</blockquote>
-
-<blockquote>
-  <details>
-    <summary><b>📄 Automatización de Documentos BOL — Bill of Lading</b></summary>
-    <br>
-    <p><i>Script de extracción, procesamiento y generación automática de documentos de logística.</i></p>
-    <table>
-      <tr>
-        <td><b>🧰 Stack</b></td>
-        <td>Python · Streamlit · OpenPyXL · Excel</td>
-      </tr>
-      <tr>
-        <td><b>📈 Impacto</b></td>
-        <td>Reducción drástica del trabajo manual al convertir automáticamente hojas de cálculo en documentos oficiales de logística, eliminando errores humanos.</td>
-      </tr>
-    </table>
-  </details>
-</blockquote>
-
-<blockquote>
-  <details>
-    <summary><b>✅ SafeTaskApp & 🗓️ Sistema de Gestión UTN</b></summary>
-    <br>
-    <p><i>Sistemas de administración de productividad para equipos de trabajo.</i></p>
-    <table>
-      <tr>
-        <td><b>SafeTaskApp</b></td>
-        <td>Aplicación de gestión de tareas de equipo con interfaz moderna y notificaciones en tiempo real.</td>
-      </tr>
-      <tr>
-        <td><b>Sistema UTN</b></td>
-        <td>Motor de reglas de negocio en <code>PHP/MySQL</code> para cálculo automático de vacaciones y días sindicales basado en contratos colectivos.</td>
-      </tr>
-    </table>
-  </details>
-</blockquote>
+print(GaelBurrola())
+# → Construyendo sistemas donde el hardware, la nube y la logística convergen.
+```
 
 <br>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🛠 Stack Tecnológico
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaelvb152&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12" height="180" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaelvb152&theme=tokyonight&hide_border=true&border_radius=12&stroke=e94560&ring=e94560&fire=e94560" height="180" alt="GitHub Streak" />
+
+<img src="https://skillicons.dev/icons?i=python,cs,php,nodejs,js,html,css,flutter,dart&theme=dark&perline=9" />
+
+<img src="https://skillicons.dev/icons?i=arduino,opencv,firebase,mysql,sqlite,docker,postman&theme=dark&perline=9" />
+
 </div>
 
+<br>
+
 <div align="center">
+
+| Área | Tecnologías |
+|------|-------------|
+| **Backend y Scripting** | Python · C# · PHP · Node.js |
+| **Frontend y Móvil** | JavaScript · HTML5 · CSS3 · Flutter/Dart |
+| **Cloud y Automatización** | Oracle Cloud · Firebase · Power Automate |
+| **IoT y Visión Artificial** | Arduino · ESP32 · OpenCV · YOLOv8 · Tesseract OCR |
+| **Datos y Almacenamiento** | MySQL · SQLite · Firebase Realtime DB |
+| **Herramientas** | Docker · Postman · Leaflet.js · Tampermonkey |
+
+</div>
+
+<br>
+
+---
+
+## 💼 Experiencia
+
+<br>
+
+**Intern — Desarrollo Multiplataforma** &nbsp;·&nbsp; 🚛 **Transmex** &nbsp;·&nbsp; `Mayo 2025 – Presente`
+
+> Tecnología logística para operaciones de transporte de largo recorrido.
+
+- Construí un **dashboard de rastreo de flotilla en tiempo real** integrando la API REST de Zonar con Firebase, proporcionando visibilidad GPS en vivo a través de múltiples puntos de control.
+- Diseñé un **editor avanzado de geocercas** con Leaflet.js — creación de polígonos, gestión de coordenadas, sincronización en mapa y alertas por zona.
+- Automaticé el flujo de alertas operativas usando **Power Automate** disparado por eventos en Firebase, reemplazando la supervisión manual.
+- Desarrollé una **herramienta de BI interna** para comparar costos de viaje vs. ingresos, identificando rutas no rentables y mejorando la toma de decisiones.
+- Construí un **script de automatización de documentos BOL** que convierte hojas de Excel en documentos oficiales de logística, eliminando errores de transcripción manual.
+
+<br>
+
+---
+
+## 🚀 Proyectos
+
+<br>
+
+<details open>
+<summary>&nbsp;<strong>🚚 Plataforma de Visibilidad Logística — Zonar API + Firebase</strong></summary>
+<br>
+
+**Problema:** Sin visibilidad en tiempo real de la ubicación de la flotilla, cruces de geocercas o estado operacional.
+
+**Solución:** Sistema full-stack que integra la API REST de Zonar como fuente de datos GPS, sincronizando con Firebase Realtime DB cada ~30s, con un dashboard web de monitoreo en vivo.
+
+```
+Stack: JavaScript · Firebase · Zonar API · Leaflet.js · Power Automate · Tampermonkey
+```
+
+- ✦ Mapa en vivo de la flotilla con geocercas superpuestas y detección de cruces
+- ✦ Sistema de alertas automatizado vía Power Automate en eventos por zona
+- ✦ Reportes operativos por turno generados automáticamente
+- ✦ Reducción de ~80% en tiempo de seguimiento manual del equipo de operaciones
+
+<br>
+</details>
+
+---
+
+<details>
+<summary>&nbsp;<strong>👁 Reconocimiento de Placas + Medición de Velocidad — IoT + IA</strong></summary>
+<br>
+
+**Problema:** La identificación manual de vehículos en puntos de control es lenta, propensa a errores y no captura datos de velocidad.
+
+**Solución:** Pipeline de visión por computadora con YOLOv8 para detección de placas + Tesseract OCR para extracción de texto, sincronizado con hardware ESP32/Arduino para medición de velocidad en tiempo real.
+
+```
+Stack: Python · YOLOv8 · OpenCV · Tesseract OCR · Firebase · Arduino · ESP32
+```
+
+- ✦ Precisión de reconocimiento de placas >85% en condiciones reales
+- ✦ Medición física de velocidad mediante sensores ultrasónicos conectados a ESP32
+- ✦ Todos los registros (placa + velocidad + timestamp) enviados a Firebase en tiempo real
+- ✦ Pipeline completamente autónomo sin intervención humana después de la configuración
+
+<br>
+</details>
+
+---
+
+<details>
+<summary>&nbsp;<strong>💰 "VIAJES DEALER" — Análisis Financiero para Transporte</strong></summary>
+<br>
+
+**Problema:** Los gerentes de operaciones no tenían visibilidad clara de la rentabilidad real por viaje.
+
+**Solución:** Herramienta de análisis en Python que ingesta datos de Excel de viajes y produce desgloses de costo vs. ingreso con visualizaciones de tendencias.
+
+```
+Stack: Python · Pandas · OpenPyXL · Matplotlib · Firebase
+```
+
+- ✦ Desglose por viaje: combustible, casetas y mano de obra vs. ingreso facturado
+- ✦ Tendencias de rentabilidad por ruta en ventanas de tiempo configurables
+- ✦ Tiempo de análisis reducido de días → **minutos**
+
+<br>
+</details>
+
+---
+
+<details>
+<summary>&nbsp;<strong>📄 Automatización de BOL — Generador de Bill of Lading</strong></summary>
+<br>
+
+**Problema:** El personal de logística copiaba manualmente datos de Excel a documentos BOL oficiales — lento y propenso a errores.
+
+**Solución:** Script automatizado en Python con interfaz web simple que lee hojas de Excel estructuradas y genera documentos BOL en formato PDF listos para imprimir en segundos.
+
+```
+Stack: Python · OpenPyXL · FPDF · HTML/CSS
+```
+
+- ✦ Procesamiento en lote de múltiples registros en una sola ejecución
+- ✦ Cero errores de transcripción tras la implementación
+- ✦ Usado diariamente por personal de logística sin conocimientos técnicos
+
+<br>
+</details>
+
+---
+
+<details>
+<summary>&nbsp;<strong>✅ SafeTaskApp — Gestión de Tareas de Equipo (Móvil)</strong></summary>
+<br>
+
+**Problema:** Sin herramienta centralizada para asignación, seguimiento y rendición de cuentas de tareas en equipos de trabajo.
+
+**Solución:** App Flutter multiplataforma con backend Firebase para gestión de tareas en tiempo real, notificaciones push y dashboards de equipo.
+
+```
+Stack: Flutter · Dart · Firebase Auth · Firestore · Cloud Messaging
+```
+
+- ✦ Asignación de tareas por usuario, prioridad y fecha límite
+- ✦ Notificaciones push en actualizaciones de tareas
+- ✦ Dashboard de productividad del equipo con historial de actividad
+
+<br>
+</details>
+
+---
+
+<details>
+<summary>&nbsp;<strong>🗓 Sistema de Gestión UTN — Motor de Reglas de Negocio</strong></summary>
+<br>
+
+**Problema:** El cálculo manual de días de vacaciones, días sindicales y prestaciones según contratos colectivos era complejo y generaba errores constantes en RR.HH.
+
+**Solución:** Sistema web PHP/MySQL con un motor de reglas personalizado que automatiza todos los cálculos según categoría de empleado y términos del contrato.
+
+```
+Stack: PHP · MySQL · HTML/CSS/JS · FPDF
+```
+
+- ✦ Soporte para múltiples categorías de empleado y tipos de contrato
+- ✦ Reportes PDF generados automáticamente por empleado
+- ✦ Eliminación de incidentes de cálculo incorrecto en RR.HH. tras la implementación
+
+<br>
+</details>
+
+<br>
+
+---
+
+## 📊 Actividad en GitHub
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaelvb152&theme=tokyonight&hide_border=true&stroke=64ffda&ring=64ffda&fire=e94560&currStreakLabel=64ffda" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaelvb152&theme=tokyo-night&hide_border=true&area=true&color=64ffda&line=64ffda&point=ffffff" alt="Gráfico de Contribuciones" width="95%"/>
+</div>
+
+<br>
+
+---
+
+## 🌱 Explorando Actualmente
+
+<div align="center">
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Microservicios](https://img.shields.io/badge/Microservicios-0080FF?style=flat-square)
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,60:16213e,100:0d0d1a&height=120&section=footer" width="100%"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaelvb152&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Langs" />
+  <sub>Abierto a colaborar en proyectos de IoT, Cloud y automatización logística.</sub><br>
+  <sub>Construyamos algo que realmente funcione en producción. 🚀</sub>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gaelvb152&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaelvb152&theme=tokyo-night&hide_border=true&area=true&color=e94560&line=e94560&point=ffffff" alt="Activity Graph" />
-</div>
-
-<br>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%" />
-</div>
-
-<p align="center">
-  <i>💡 Siempre abierto a colaborar en proyectos de Cloud, IoT, Automatización e Innovación Logística.</i><br>
-  <b>¡Conectemos y construyamos algo increíble juntos! 🚀</b>
-</p>
