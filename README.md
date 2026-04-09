@@ -2,13 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:16213e,100:0f3460&height=270&section=header&text=Gael%20Valencia&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Ingeniero%20de%20Software%20%7C%20IoT%20%7C%20Cloud%20%7C%20Automatización%20Logística&descColor=8892b0&descAlignY=58&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=64ffda&center=true&vCenter=true&width=800&height=55&lines=Desarrollador+Full-Stack+%26+Ingeniero+IoT;Automatización+Logística+%7C+Sistemas+en+Tiempo+Real;Visión+por+Computadora+%7C+Integración+de+Hardware;Oracle+Cloud+%7C+Firebase+%7C+Edge+Computing" alt="Typing SVG"/>
-</div>
-
-<br>
 
 <div align="center">
 
