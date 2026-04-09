@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:16213e,100:0f3460&height=270&section=header&text=Gael%20Burrola&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Ingeniero%20de%20Software%20%7C%20IoT%20%7C%20Cloud%20%7C%20Automatización%20Logística&descColor=8892b0&descAlignY=58&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:16213e,100:0f3460&height=270&section=header&text=Gael%20Valencia&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Ingeniero%20de%20Software%20%7C%20IoT%20%7C%20Cloud%20%7C%20Automatización%20Logística&descColor=8892b0&descAlignY=58&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
 <br>
@@ -26,7 +26,7 @@
 ## `$ whoami`
 
 ```python
-class GaelBurrola:
+class GaelValencia:
     ubicacion   = "Nogales, Sonora, México 🌵"
     universidad = "Ingeniería en Desarrollo y Gestión de Software — UTN"
     empresa     = "Intern @ Transmex · Sistemas de Logística y Flotillas"
@@ -45,7 +45,7 @@ class GaelBurrola:
     def __str__(self):
         return "Construyendo sistemas donde el hardware, la nube y la logística convergen."
 
-print(GaelBurrola())
+print(GaelValencia())
 # → Construyendo sistemas donde el hardware, la nube y la logística convergen.
 ```
 
