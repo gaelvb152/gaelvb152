@@ -13,7 +13,7 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/gaelburrola249%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gaelburrola249@gmail.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gael-burrola-valencia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gael-burrola-valencia-1a13b23b1?utm_source=share_via&utm_content=profile&utm_medium=member_ios)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gael-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gael-burrola-valencia-1a13b23b1?utm_source=share_via&utm_content=profile&utm_medium=member_ios)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-gaelvb152-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gaelvb152)&nbsp;&nbsp;
 [![Visitas](https://komarev.com/ghpvc/?username=gaelvb152&style=flat-square&color=brightgreen&label=visitas+al+perfil)](https://github.com/gaelvb152)
 
