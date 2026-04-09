@@ -1,108 +1,139 @@
-<h1 align="center">¡Hola!, soy Gael 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Gael%20Burrola&fontSize=70&fontAlignY=35&desc=Ingeniero%20de%20Software%20%7C%20IoT%20%7C%20Cloud&descAlignY=55&descAlign=50" width="100%" />
+</div>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=239120&center=true&vCenter=true&width=600&lines=Desarrollador+Full-Stack;Especialista+en+Log%C3%ADstica+y+Automatizaci%C3%B3n;Integraci%C3%B3n+de+Hardware+y+Visi%C3%B3n+por+Computadora" alt="Typing Animation" />
+</h2>
 
 <p align="center">
-  <img src="https://image.api.webit.ai/r/35dcc50d034b7915509c25f778917846fa5acff5ef169a8b136b856e0767bd87" alt="Banner de Gael - Centro de Comando Digital" width="100%">
+  🌍 <strong>Nogales, Sonora, México</strong> &nbsp; | &nbsp; 🎓 <strong>Ingeniería en Desarrollo y Gestión de Software (UTN)</strong>
 </p>
 
 <p align="center">
-  🎓 Estudiante de Tecnologías de la Información en Multiplataforma <br>
-  💻 Desarrollador con enfoque en **software, electrónica y visión por computadora** <br>
-  🌎 Desde Nogales, Sonora | 📅 Disponible para prácticas profesionales
+  Convirtiendo problemas complejos en soluciones escalables. Me especializo en la intersección entre el software moderno, la automatización en la nube (Oracle Cloud), y la electrónica para el sector logístico e industrial.
 </p>
-
----
-
-## 🚀 Tecnologías principales
-
-### 💻 Lenguajes de programación
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-</p>
-
-### ⚙️ Frameworks y herramientas
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tesseract_OCR-5A5A5A?style=for-the-badge"/>
-</p>
-
-### 🔌 Hardware y electrónica
-<p align="center">
-  <strong>ESP32 · Arduino · Sensores ultrasónicos · Servos · Comunicación serial</strong>
-</p>
-
----
-
-## 🛠️ Experiencia destacada
-
-### Intern / Practicante de Desarrollo | *Transmex*
-*(Mayo 2025 - Octubre 2025)*
-- Desarrollo de soluciones de software para optimización de procesos.
-- Integración de tecnologías y gestión de datos operativos.
-
----
-
-## 📌 Proyectos destacados
-
-### 🚘 Sistema de detección de placas en tiempo real
-> YOLOv8 · OpenCV · Tesseract OCR · Firebase · Arduino
-
-- Detección automática de placas con reconocimiento de texto
-- Obtención de velocidad desde sensores ultrasónicos vía Arduino
-- GUI con visualización en tiempo real y generación de reportes
-
-### 🚚 Sistema de visibilidad logística y rastreo GPS
-> Firebase · Integración API (Zonar) · Dashboard Web
-
-- Desarrollo de un sistema para monitorear la ubicación de vehículos en diferentes puntos de control.
-- Consumo de datos GPS desde la plataforma Zonar y sincronización en tiempo real con backend en Firebase para su visualización en un dashboard analítico.
-
-### 📄 Automatización de Bill of Lading (BOL)
-> Python · Streamlit · Procesamiento de Datos (Excel)
-
-- Creación de un script automatizado para la generación de documentos BOL.
-- Desarrollo de una interfaz gráfica intuitiva con Streamlit para procesar y extraer datos directamente desde archivos Excel, reduciendo el tiempo de carga manual.
-
-### ✅ SafeTaskApp
-> Desarrollo Web · Gestión de Tareas
-
-- Aplicación web enfocada en la administración, seguimiento y control de tareas.
-- Diseño de requerimientos y lógica de negocio para mejorar la productividad personal y de equipos.
-
----
-
-## 📫 Contáctame
 
 <p align="center">
   <a href="mailto:gaelburrola249@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gaelburrola249@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-## ✨ Sobre mí
+## 🛠️ Stack Tecnológico
 
-- 🧠 Me apasiona resolver problemas reales mediante código, desde el backend hasta el despliegue en la nube.
-- 📈 Actualmente estoy explorando arquitecturas cloud y herramientas de análisis de costos/ingresos para proyectos logísticos.
-- 🤝 Siempre abierto a colaborar en proyectos innovadores y automatización de procesos.
-  
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Backend & Cloud</b></td>
+      <td align="center"><b>Frontend & Apps</b></td>
+      <td align="center"><b>Hardware & Visión</b></td>
+      <td align="center"><b>Bases de Datos</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <br>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> <br>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <br>
+        <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <br>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <br>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/> <br>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/> <br>
+        <img src="https://img.shields.io/badge/ESP32-E6526F?style=flat-square&logo=espressif&logoColor=white"/> <br>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <br>
+        <img src="https://img.shields.io/badge/YOLOv8-FF1493?style=flat-square"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/> <br>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <br>
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
+
+## 💼 Experiencia Profesional
+
+### 🚛 Intern de Desarrollo Multiplataforma | *Transmex*
+*(Mayo 2025 - Octubre 2025)*
+- Desarrollo e implementación de herramientas de software enfocadas en la optimización de procesos operativos.
+- Gestión e integración de bases de datos para mejorar la eficiencia logística y el flujo de información en la empresa.
+
+---
+
+## 🚀 Proyectos de Alto Impacto
+
+<details>
+  <summary><b>🚚 Plataforma de Visibilidad Logística y Rastreo (Zonar API)</b></summary>
+  <br>
+  Sistema integral de monitoreo vehicular para logística. 
+  <ul>
+    <li><b>Tecnologías:</b> Firebase, Zonar API, GPS, Web Dashboard.</li>
+    <li><b>Impacto:</b> Permite el rastreo en tiempo real a través de diferentes puntos de control, sincronizando grandes volúmenes de datos GPS en Firebase para un análisis operativo preciso.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>💰 Análisis Financiero "VIAJES DEALER"</b></summary>
+  <br>
+  Herramienta de inteligencia de negocio para el sector transporte.
+  <ul>
+    <li><b>Objetivo:</b> Evaluación detallada del balance entre costos de operación versus ingresos reales, mejorando la toma de decisiones estratégicas.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>👁️‍🗨️ Reconocimiento de Placas e IoT en Tiempo Real</b></summary>
+  <br>
+  Integración avanzada de visión por computadora y hardware.
+  <ul>
+    <li><b>Tecnologías:</b> YOLOv8, OpenCV, Tesseract OCR, Firebase, Arduino, ESP32, Sensores Ultrasónicos.</li>
+    <li><b>Impacto:</b> Captura de placas vehiculares mediante OCR y medición de velocidad sincronizada con hardware, alimentando una base de datos en la nube para generación automática de reportes.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>📄 Automatización de Documentos BOL (Bill of Lading)</b></summary>
+  <br>
+  Script de extracción y procesamiento de datos.
+  <ul>
+    <li><b>Tecnologías:</b> Python, Streamlit, Excel.</li>
+    <li><b>Impacto:</b> Reducción drástica del trabajo manual al procesar hojas de cálculo y convertirlas automáticamente en documentos oficiales de logística a través de una interfaz limpia.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>✅ SafeTaskApp & 🗓️ Gestión UTN</b></summary>
+  <br>
+  Sistemas de administración administrativa y productividad.
+  <ul>
+    <li><b>SafeTaskApp:</b> Gestión de tareas de equipo con interfaz moderna.</li>
+    <li><b>Sistema UTN (PHP/MySQL):</b> Motor de reglas de negocio para cálculo de vacaciones y días sindicales basado en contratos colectivos.</li>
+  </ul>
+</details>
+
+---
+
+## 📊 Estadísticas de Código
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaelvb152&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaelvb152&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF" height="150" alt="Top Languages" />
+</div>
 
 <p align="center">
-  <i>"Convirtiendo café y lógica en soluciones multiplataforma."</i>
+  <i>💡 Siempre abierto a discutir sobre arquitecturas Cloud, IoT e Innovación Logística.</i>
 </p>
-
-- > ⚠️ *Este portafolio está en construcción. Pronto iré subiendo proyectos y mas contenido.*
-
----
