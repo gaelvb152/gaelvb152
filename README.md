@@ -141,9 +141,6 @@ Stack: Python · YOLOv8 · OpenCV · Tesseract OCR · Firebase · Arduino · ESP
 
 ---
 
-
----
-
 <details>
 <summary>&nbsp;<strong>📄 Automatización de BOL — Generador de Bill of Lading</strong></summary>
 <br>
