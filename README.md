@@ -141,24 +141,6 @@ Stack: Python · YOLOv8 · OpenCV · Tesseract OCR · Firebase · Arduino · ESP
 
 ---
 
-<details>
-<summary>&nbsp;<strong>💰 "VIAJES DEALER" — Análisis Financiero para Transporte</strong></summary>
-<br>
-
-**Problema:** Los gerentes de operaciones no tenían visibilidad clara de la rentabilidad real por viaje.
-
-**Solución:** Herramienta de análisis en Python que ingesta datos de Excel de viajes y produce desgloses de costo vs. ingreso con visualizaciones de tendencias.
-
-```
-Stack: Python · Pandas · OpenPyXL · Matplotlib · Firebase
-```
-
-- ✦ Desglose por viaje: combustible, casetas y mano de obra vs. ingreso facturado
-- ✦ Tendencias de rentabilidad por ruta en ventanas de tiempo configurables
-- ✦ Tiempo de análisis reducido de días → **minutos**
-
-<br>
-</details>
 
 ---
 
